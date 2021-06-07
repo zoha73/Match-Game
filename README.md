@@ -1,2 +1,2 @@
 # Match-Game
-Its a mind game 
+Its a puzzle game
